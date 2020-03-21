@@ -1,0 +1,12 @@
+{
+  "name": "traefik-shortcut",
+  "version": "1.0.0",
+  "description": "traefik v2 is very wordy. This is a preprocessor for your docker-compose",
+  "main": "index.js",
+  "author": "!marion fitts",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "minimist": "^1.2.5"
+  }
+}
